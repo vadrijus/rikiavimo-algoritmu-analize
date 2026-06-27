@@ -1,0 +1,81 @@
+Duomenu tipas: Atsitiktiniai duomenys
+Elementu kiekis: 5000
+Insertion sort vidutinis laikas: 4283 mikrosek.
+Merge sort vidutinis laikas: 1584 mikrosek.
+Insertion sort palyginimai: 6326909
+Merge sort palyginimai: 55191
+Insertion sort perkelimai: 6326913
+Merge sort perkelimai: 123616
+----------------------------------------
+Duomenu tipas: Atvirksciai surikiuoti duomenys
+Elementu kiekis: 5000
+Insertion sort vidutinis laikas: 7450 mikrosek.
+Merge sort vidutinis laikas: 1249 mikrosek.
+Insertion sort palyginimai: 12497500
+Merge sort palyginimai: 29804
+Insertion sort perkelimai: 12502499
+Merge sort perkelimai: 123616
+----------------------------------------
+Duomenu tipas: Jau surikiuoti duomenys
+Elementu kiekis: 5000
+Insertion sort vidutinis laikas: 4 mikrosek.
+Merge sort vidutinis laikas: 1188 mikrosek.
+Insertion sort palyginimai: 4999
+Merge sort palyginimai: 32004
+Insertion sort perkelimai: 4999
+Merge sort perkelimai: 123616
+----------------------------------------
+Duomenu tipas: Atsitiktiniai duomenys
+Elementu kiekis: 10000
+Insertion sort vidutinis laikas: 14327 mikrosek.
+Merge sort vidutinis laikas: 2727 mikrosek.
+Insertion sort palyginimai: 24896470
+Merge sort palyginimai: 120487
+Insertion sort perkelimai: 24896478
+Merge sort perkelimai: 267232
+----------------------------------------
+Duomenu tipas: Atvirksciai surikiuoti duomenys
+Elementu kiekis: 10000
+Insertion sort vidutinis laikas: 29584 mikrosek.
+Merge sort vidutinis laikas: 2607 mikrosek.
+Insertion sort palyginimai: 49995000
+Merge sort palyginimai: 64608
+Insertion sort perkelimai: 50004999
+Merge sort perkelimai: 267232
+----------------------------------------
+Duomenu tipas: Jau surikiuoti duomenys
+Elementu kiekis: 10000
+Insertion sort vidutinis laikas: 8 mikrosek.
+Merge sort vidutinis laikas: 2349 mikrosek.
+Insertion sort palyginimai: 9999
+Merge sort palyginimai: 69008
+Insertion sort perkelimai: 9999
+Merge sort perkelimai: 267232
+----------------------------------------
+Duomenu tipas: Atsitiktiniai duomenys
+Elementu kiekis: 50000
+Insertion sort vidutinis laikas: 348168 mikrosek.
+Merge sort vidutinis laikas: 14321 mikrosek.
+Insertion sort palyginimai: 628506183
+Merge sort palyginimai: 718242
+Insertion sort perkelimai: 628506194
+Merge sort perkelimai: 1568928
+----------------------------------------
+Duomenu tipas: Atvirksciai surikiuoti duomenys
+Elementu kiekis: 50000
+Insertion sort vidutinis laikas: 695548 mikrosek.
+Merge sort vidutinis laikas: 11475 mikrosek.
+Insertion sort palyginimai: 1249975000
+Merge sort palyginimai: 382512
+Insertion sort perkelimai: 1250024999
+Merge sort perkelimai: 1568928
+----------------------------------------
+Duomenu tipas: Jau surikiuoti duomenys
+Elementu kiekis: 50000
+Insertion sort vidutinis laikas: 46 mikrosek.
+Merge sort vidutinis laikas: 11965 mikrosek.
+Insertion sort palyginimai: 49999
+Merge sort palyginimai: 401952
+Insertion sort perkelimai: 49999
+Merge sort perkelimai: 1568928
+----------------------------------------
